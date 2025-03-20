@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+yfinance
+tweepy
+praw
+python-dotenv
+psycopg2-binary
+pandas
+anticaptchaofficial
